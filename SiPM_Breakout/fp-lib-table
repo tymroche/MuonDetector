@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Onsemi") (type "KiCad") (uri "C:/Users/troche8/Documents/KiCad/MuonDetector/MICROFC-60035-SMT-TR/eec.pretty") (options "") (descr ""))
+)
